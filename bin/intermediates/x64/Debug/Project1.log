@@ -1,0 +1,11 @@
+﻿  VertexArray.cpp
+D:\cplus_project\arg\arg\Project1\src\OpenGL\VertexArray.cpp(29,3): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“const void *”
+  start.cpp
+D:\cplus_project\arg\arg\Project1\src\LinearList\Linear.h(292,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\cplus_project\arg\arg\Project1\src\LinearList\Linear.h(280,1): message : 在编译 类 模板 成员函数“void ArrayList<int>::erase(int)”时
+D:\cplus_project\arg\arg\Project1\src\start.cpp(436,28): message : 查看对正在编译的 类 模板 实例化“ArrayList<int>”的引用
+  正在生成代码...
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Project1.vcxproj -> D:\cplus_project\arg\arg\bin\x64\Debug\running.exe
